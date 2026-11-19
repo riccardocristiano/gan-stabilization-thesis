@@ -1,7 +1,6 @@
 # Stabilizing Generative Adversarial Networks
 ### A Comparative Study of Architectures and Loss Functions
 
-Bachelor's thesis in Data Analytics at the University of Campania "Luigi Vanvitelli".
 
 ## Overview
 
